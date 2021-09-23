@@ -1,6 +1,6 @@
 ---
 title: "Project (Naive bayes)"
-author: "Smit Ajmera, Jaymeen Gandhi, Helee Rana"
+author: "Smit Ajmera"
 date: "4/29/2020"
 output: html_document
 ---
